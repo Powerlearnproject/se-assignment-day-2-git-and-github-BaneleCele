@@ -43,6 +43,7 @@ Steps:
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 *What Are Pull Requests?*
 - Pull requests are a way for developers to propose changes from one branch to another, typically from a feature branch to the main branch, on GitHub. They act like a request for review, showing all changes made and inviting feedback.
+
 *How They Facilitate Code Review and Collaboration*
 - Pull requests enable team members to review code before it's merged, leaving comments and suggesting improvements. This ensures the main branch stays stable and high quality. They also provide a clear record of changes, fostering transparency and efficient teamwork, especially in open-source projects.
 *Steps to Create and Merge a Pull Request*
