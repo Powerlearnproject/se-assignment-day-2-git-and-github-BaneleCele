@@ -46,6 +46,7 @@ Steps:
 
 *How They Facilitate Code Review and Collaboration*
 - Pull requests enable team members to review code before it's merged, leaving comments and suggesting improvements. This ensures the main branch stays stable and high quality. They also provide a clear record of changes, fostering transparency and efficient teamwork, especially in open-source projects.
+
 *Steps to Create and Merge a Pull Request*
 1. Create a new branch from the main branch for your feature or fix.
 2. Make changes, commit them, and push the branch to GitHub.
@@ -91,4 +92,5 @@ Examples: A team might use an issue to track a bug report, discussing it and att
 - Pull Requests: Use them not only for code reviews but also for discussing and finalizing features before merging into the main branch.
 - Environment Setup: Ensure new team members understand how to set up their local development environment and connect it to the remote repository correctly.
 - Education and Training: Encourage new users to read the GitHub documentation or attend training sessions to understand best practices and common workflows.
+
 *Overcoming Pitfalls:* By adopting these best practices and strategies, users can minimize common pitfalls and ensure smoother collaboration. Regular code reviews and standardized workflows also help in maintaining code quality and consistency.
