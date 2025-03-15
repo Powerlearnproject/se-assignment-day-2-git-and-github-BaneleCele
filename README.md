@@ -14,6 +14,7 @@ Key Steps:
 5. Visibility: Choose between public (visible to everyone) or private (restricted access).
 6. Initialize: Optionally, initialize with a README, .gitignore, and license.
 7. Create: Click "Create repository."
+
 Important Decisions:
 - Visibility: Public vs. private.
 - Initialization: Whether to add a README, .gitignore, or license upfront.
